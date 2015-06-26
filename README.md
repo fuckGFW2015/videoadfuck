@@ -1,2 +1,0 @@
-# antiadvideo
-filter ad video 
